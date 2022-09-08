@@ -1,3 +1,12 @@
+<d>
+<details>
+    <summary> Links </summary>
+
+[stackoverflow.com](https://stackoverflow.com/questions/3655306/ubuntu-usr-bin-env-python-no-such-file-or-directory) 
+  
+</details>
+</d>  
+
 ```
 $ ./configure
 /usr/bin/env: ‘python’: No such file or directory
